@@ -1,8 +1,9 @@
-## **Installation and Running**
+# Tsai Camera Calibration
 ![image1](outputs/page1.jpg)
 ![image2](outputs/page2.jpg)
 ![image3](outputs/page3.jpg)
 
+## **Installation and Running**
 1. Download and extract the files.
 
 2. Run the code Problem_1.py using the following command in your terminal
