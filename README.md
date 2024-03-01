@@ -1,4 +1,7 @@
 ## **Installation and Running**
+![image1](outputs/page1.jpg)
+![image2](outputs/page2.jpg)
+![image3](outputs/page3.jpg)
 
 1. Download and extract the files.
 
